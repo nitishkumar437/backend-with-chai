@@ -6,3 +6,4 @@ class ApiResponse {
     this.successs = satusCode < 400;
   }
 }
+export { ApiResponse }
